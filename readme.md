@@ -8,7 +8,7 @@
 ## Install
 
 ```
-$ npm install -g giffy-break-cli
+$ npm install --global giffy-break-cli
 ```
 
 
