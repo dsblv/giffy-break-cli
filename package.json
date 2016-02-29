@@ -1,6 +1,6 @@
 {
   "name": "giffy-break-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Watch random gifs in a browser while command runs",
   "license": "MIT",
   "repository": "dsblv/giffy-break-cli",
