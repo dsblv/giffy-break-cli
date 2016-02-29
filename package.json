@@ -1,0 +1,48 @@
+{
+  "name": "giffy-break-cli",
+  "version": "0.0.0",
+  "description": "Watch random gifs in a browser while command runs",
+  "license": "MIT",
+  "repository": "dsblv/giffy-break-cli",
+  "author": {
+    "name": "Dmitriy Sobolev",
+    "email": "disobolev@icloud.com",
+    "url": "github.com/dsblv"
+  },
+  "bin": {
+    "giffy-break": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "gif",
+    "gifs",
+    "giffy",
+    "giphy",
+    "random",
+    "while",
+    "until",
+    "command",
+    "fun",
+    "break",
+    "browser"
+  ],
+  "dependencies": {
+    "cross-spawn-async": "^2.1.9",
+    "giffy-break": "^0.2.0",
+    "meow": "^3.6.0",
+    "opn": "^4.0.0"
+  },
+  "devDependencies": {
+    "xo": "^0.12.1"
+  }
+}
